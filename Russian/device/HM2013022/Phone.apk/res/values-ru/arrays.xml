@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string-array name="call_reject_dialog_array">
+        <item>Контакты</item>
+        <item>Журнал вызов</item>
+     </string-array>
+     <string-array name="call_reject_mode_entries">
+        <item>Отключено</item>
+        <item>Все номера</item>
+        <item>Из списка</item>
+     </string-array>
+     <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+     </string-array>
+     <string-array name="clir_display_values">
+        <item>Настройки сети по умолчанию</item>
+        <item>Скрыть номер</item>
+        <item>Показать номер</item>
+     </string-array>
+     <string-array name="dtmf_tone_entries">
+        <item>Обычные</item>
+        <item>Длинные</item>
+     </string-array>
+     <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (автом.)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+     </string-array>
+     <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (автом.)</item>
+        <item>Только TD-SCDMA</item>
+        <item>Только GSM</item>
+     </string-array>
+     <string-array name="language_list_values">
+        <item>All Languages</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Italian</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Dutch</item>
+        <item>Swedish</item>
+        <item>Danish</item>
+        <item>Portuguese</item>
+        <item>Finnish</item>
+        <item>Norwegian</item>
+        <item>Greek</item>
+        <item>Turkish</item>
+        <item>Hungarian</item>
+        <item>Polish</item>
+        <item>Others</item>
+        <item>Czech</item>
+        <item>Hebrew</item>
+        <item>Arabic</item>
+        <item>Russian</item>
+        <item>IceLandic</item>
+     </string-array>
+     <string-array name="list_language_entries">
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
+     </string-array>
+     <string-array name="plmn_prefer_network_mode_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>Двойной режим</item>
+     </string-array>
+     <string-array name="plmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>Двойной режим</item>
+     </string-array>
+     <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>Только EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Автоматически CDMA/EvDo</item>
+        <item>Автоматически GSM/WCDMA</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>Предпочтительно GSM/WCDMA</item>
+     </string-array>
+     <string-array name="tty_mode_entries">
+        <item>Телетайп выключен</item>
+        <item>Полнофункциональный телетайп</item>
+        <item>Телетайп с возможностью слышать собеседника</item>
+        <item>Телетайп с возможностью передачи голоса</item>
+     </string-array>
+     <string-array name="umts_network_preferences_choices">
+        <item>GSM/WCDMA (автом.)</item>
+        <item>Только WCDMA</item>
+     </string-array>
+     <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (автом.)</item>
+        <item>Только TD-SCDMA</item>
+     </string-array>
+     <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Всегда</item>
+        <item>В режиме \"Без звука\"</item>
+        <item>Никогда</item>
+     </string-array>
+</resources>

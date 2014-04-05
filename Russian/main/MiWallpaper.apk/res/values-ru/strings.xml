@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="mi_wallpaper_loading">Загрузка обоев…</string>
+     <string name="mi_wallpaper_title">MiОбои</string>
+</resources>
